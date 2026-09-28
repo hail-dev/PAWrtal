@@ -1,6 +1,6 @@
 # PAWrtal
 
-> A full-stack pet services marketplace connecting pet owners with veterinarians, groomers, and other pet care professionals — built with Flutter and deployed at [pawrtal.app](https://pawrtal.app).
+> A full-stack pet services marketplace connecting pet owners with veterinarians, groomers, and other pet care professionals — built with Flutter and deployed at [pawrtal.online](https://pawrtal.online).
 
 ---
 
@@ -95,7 +95,7 @@ Configure your Appwrite endpoint and project credentials in `lib/` (see `firebas
 
 ## Deployment
 
-- **Web** — Deployed to [pawrtal.app](https://pawrtal.app) via **Vercel** using `vercel.json` configuration
+- **Web** — Deployed to [pawrtal.online](https://pawrtal.online) via **Vercel** using `vercel.json` configuration
 - **Android** — Built and distributed via Firebase App Distribution
 - **CI/CD** — Automated workflows defined in `.github/workflows/`
 
